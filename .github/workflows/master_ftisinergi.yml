@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ftisinergi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54443D073BA54C6489BA379CA7B10B69 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D206693C34724030978DAE58F82FBBD3 }}
           package: .
