@@ -3,20 +3,8 @@
 use App\Http\Controllers\app\ListAnggotaController;
 use App\Http\Controllers\app\VerifiedUserController;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\LanguageController;
 use App\Http\Controllers\DashboardController;
-use App\Http\Controllers\AppsController;
-use App\Http\Controllers\UserInterfaceController;
-use App\Http\Controllers\CardsController;
-use App\Http\Controllers\ComponentsController;
-use App\Http\Controllers\ExtensionController;
-use App\Http\Controllers\PageLayoutController;
-use App\Http\Controllers\FormsController;
-use App\Http\Controllers\TableController;
-use App\Http\Controllers\PagesController;
-use App\Http\Controllers\MiscellaneousController;
-use App\Http\Controllers\AuthenticationController;
-use App\Http\Controllers\ChartsController;
+
 
 /*
 |--------------------------------------------------------------------------
