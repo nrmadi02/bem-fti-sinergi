@@ -5,7 +5,6 @@ use App\Http\Controllers\app\VerifiedUserController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DashboardController;
 
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
