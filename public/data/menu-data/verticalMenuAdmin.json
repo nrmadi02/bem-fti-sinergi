@@ -1,0 +1,36 @@
+{
+  "menu": [
+    {
+        "navheader": "Menu",
+        "slug": ""
+    },
+    {
+        "name": "Dashboard",
+        "icon": "home",
+        "slug": "dashboard",
+        "url": "bem-fti"
+    },
+    {
+        "name": "Data Pribadi",
+        "icon": "user-check",
+        "slug": "data-pribadi",
+        "url": "bem-fti/data-pribadi"
+    },
+    {
+        "name": "List Anggota",
+        "icon": "users",
+        "slug": "list-anggota",
+        "url": "bem-fti/list-anggota"
+    },
+    {
+        "navheader": "Admin Only",
+        "slug": ""
+    },
+    {
+        "name": "Verified User",
+        "icon": "users",
+        "slug": "verified-user",
+        "url": "bem-fti/verified-user"
+    }
+  ]
+}
