@@ -1,1 +1,14 @@
-.dark-layout .form-control[type=file]::-webkit-file-upload-button{background-color:#283046}.dark-layout .form-control[type=file]::file-selector-button{background-color:#283046}.brand-logo img{height:45px;margin-top:-8px;max-width:45px!important;width:45px}
+.dark-layout .form-control[type=file]::-webkit-file-upload-button {
+  background-color: #283046;
+}
+
+.dark-layout .form-control[type=file]::file-selector-button {
+  background-color: #283046;
+}
+
+.brand-logo img {
+  margin-top: -8px;
+  width: 45px;
+  height: 45px;
+  max-width: 45px !important;
+}
